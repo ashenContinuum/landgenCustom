@@ -26,9 +26,9 @@ ForceChum1 = '';
 ForceChum2 = '';
 LockColor = false;
 
-OptionsWindowVisible = false;
-FacebookVisible = true;
-TwitterVisible = true;
+OptionsWindowVisible = true;
+FacebookVisible = false;
+TwitterVisible = false;
 
 window.onload = function(){
 	document.getElementById("req_js").style.display = "block";
