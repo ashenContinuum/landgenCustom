@@ -1,4 +1,4 @@
-LANDGEN_VER = "2.1.3";
+LANDGEN_VER = "2.1.4";
 
 RANDOM = -1;
 MALE = 0;
@@ -26,9 +26,9 @@ ForceChum1 = '';
 ForceChum2 = '';
 LockColor = false;
 
-OptionsWindowVisible = false;
-FacebookVisible = true;
-TwitterVisible = true;
+OptionsWindowVisible = true;
+FacebookVisible = false;
+TwitterVisible = false;
 
 window.onload = function(){
 	document.getElementById("req_js").style.display = "block";
