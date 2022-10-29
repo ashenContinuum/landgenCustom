@@ -1,4 +1,8 @@
 var LandName = [
+'Lanterns',
+'Wishbones',
+'Smoke',
+'Mirrors',
 'Acid',
 'Advertisement',
 'Age',
@@ -981,7 +985,6 @@ var Chum2 = [
 'Tulip',
 'Turmoil',
 'Twilight',
-'Typhoon'
 'Typhoon',
 'Tyranny'
 ];
