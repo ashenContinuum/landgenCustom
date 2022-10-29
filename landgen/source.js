@@ -650,7 +650,7 @@ var LongTitleName2 = [
 'Vim',
 'Void',
 'Wealth',
-'Wisdom'
+'Wisdom',
 'Zeal'
 ];
 
