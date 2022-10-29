@@ -1111,7 +1111,6 @@ var ConsortTypes = [
 "sheep",
 "skunks",
 "snakes",
-"snakes",
 "squids",
 "tigers",
 "toucans",
@@ -1221,6 +1220,7 @@ var ConsortLikes = [
 "music",
 "dancing",
 "swimming",
-"philosophy"
+"philosophy",
+"the human emotion called friendship"
 ];
 
