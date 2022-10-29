@@ -26,7 +26,7 @@ ForceChum1 = '';
 ForceChum2 = '';
 LockColor = false;
 
-OptionsWindowVisible = true;
+OptionsWindowVisible = false;
 FacebookVisible = false;
 TwitterVisible = false;
 
