@@ -994,7 +994,7 @@ var Chum2 = [
 var Interests = [
 ["Video Games", ["Metroid Prime", "Mario Figurine", "Minecraft", "Castlevania","Portal Gun Replica", "The Orange Box", "Sonic Plushtoy"]],
 ["Cooking", ["Saucepan", "Hot Sauce", "Cooking For Dummies", "Toaster", "Cooking Grease", "Ice Cream"]],
-["Botany", ["Fertilizer", "Pumpkin", "Amorphophallus titanum", "Venus Fly Trap", "Tree Branch", "Watering Can"]],
+["Botany", ["Fertilizer", "Pumpkin", "Poison Ivy", "Venus Fly Trap", "Tree Branch", "Watering Can"]],
 ["Art", ["Paintbrush", "Charcoal", "Pencil", "Creepy Figurine", "MC Escher Picture", "Giger Painting"]],
 ["Grimdark Arts", ["Summoning Grimoire", "Vial of your own blood", "Creepy Figurine", "'Username: 666' video, burned onto DVD", "Lovecraftian Novel", "Incense Holder", "Ectoplasm"]],
 ["Biology", ["Protein", "Crab Claw", "Genetic Horror", "Hazardous Chemicals", "Hologram of your own brain", "Fetus in a jar", "Taxidermied creature"]],
