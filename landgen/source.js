@@ -1026,7 +1026,7 @@ var Specibi = [
 ["clubKind", ["Large Stick", "Baseball Bat", "Golf Club", "Night Stick"]],
 ["clawKind", ["Fake Fingernails", "Wolverine Claws", "Bagh Nakh"]],
 ["chainsawKind", ["Chainsaw", "Pole Saw", "Jaws of Life"]],
-["makeupKind", ["Lipstick", "Hairspray", "99c-store Makeup Kit]],
+["makeupKind", ["Lipstick", "Hairspray", "99c-store Makeup Kit"]],
 ["umbrellaKind", ["Umbrella", "Parasol", "Flabellum"]],
 ["scytheKind", ["Farming Scythe", "Scythe", "Sickle"]],
 ["spearKind", ["Pointy Stick", "Spear", "Javelin", "Hawaiian Sling"]],
