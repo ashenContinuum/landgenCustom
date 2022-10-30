@@ -495,7 +495,9 @@ var TitleName1 = [
 var LongTitleName1 = [
 'Douche',
 'Gent',
-'Waste'
+'Waste',
+['Lord', null],
+[null, 'Muse']
 ];
 
 var TitleName2 = [
