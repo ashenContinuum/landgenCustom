@@ -993,6 +993,7 @@ var Chum2 = [
 
 var Interests = [
 ["Meta", ["SBHJ poster", "Con-Air Bunny", "Cool Horse Painting", "Problem Sleuth Poster", "[CENSORED]", "Sepulchritude Shirt"]],	
+["Meta2", ["SBHJ poster", "Con-Air Bunny", "Cool Horse Painting", "Problem Sleuth Poster", "[CENSORED]", "Sepulchritude Shirt"]]	
 ];
 
 var Specibi = [
