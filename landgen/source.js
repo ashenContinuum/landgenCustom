@@ -992,7 +992,7 @@ var Chum2 = [
 ];
 
 var Interests = [
-["Video Games", ["Metroid Prime", "Mario Figurine", "Minecraft", "Castlevania","Portal Gun Replica", "The Orange Box", "Sonic Plushtoy"]],
+["Video Games", ["Metroid Prime", "Mario Figurine", "Minecraft", "Castlevania", "Portal Gun Replica", "The Orange Box", "Sonic Plushtoy"]],
 ["Cooking", ["Saucepan", "Hot Sauce", "Cooking For Dummies", "Toaster", "Cooking Grease", "Ice Cream"]],
 ["Botany", ["Fertilizer", "Pumpkin", "Poison Ivy", "Venus Fly Trap", "Tree Branch", "Watering Can"]],
 ["Art", ["Paintbrush", "Charcoal", "Pencil", "Creepy Figurine", "MC Escher Picture", "Giger Painting"]],
