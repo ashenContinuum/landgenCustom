@@ -1202,7 +1202,7 @@ var ConsortLikes = [
 "architecture",
 "art",
 "beauty",
-"friendship",
+"hotdogs",
 "gadgetry",
 "knowledge",
 "magic",
