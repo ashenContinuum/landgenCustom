@@ -178,7 +178,6 @@ var LandName = [
 'Meadow',
 'Melody',
 'Mercury',
-'Mirrors',
 'Mirth',
 'Misers',
 'Mist',
@@ -993,7 +992,7 @@ var Chum2 = [
 ];
 
 var Interests = [
-["Video Games", ["Metroid Prime", "Mario Figurine", "Minecraft", "Castlevania","Portal Gun Replica", "The Orange Box", "Shitty Roguelike burned to CD", "Sonic Plushtoy"]],
+["Video Games", ["Metroid Prime", "Mario Figurine", "Minecraft", "Castlevania","Portal Gun Replica", "The Orange Box", "Sonic Plushtoy"]],
 ["Cooking", ["Saucepan", "Hot Sauce", "Cooking For Dummies", "Toaster", "Cooking Grease", "Ice Cream"]],
 ["Botany", ["Fertilizer", "Pumpkin", "Amorphophallus titanum", "Venus Fly Trap", "Tree Branch", "Watering Can"]],
 ["Art", ["Paintbrush", "Charcoal", "Pencil", "Creepy Figurine", "MC Escher Picture", "Giger Painting"]],
@@ -1005,14 +1004,14 @@ var Interests = [
 ["Engineering", ["Car Engine", "Plane Replica", "Car Battery", "Model Skyscraper"]],
 ["Frivolity", ["Wizard Hat", "Shitty Wizard Figurine", "Creepy Doll", "Trick Cards", "Whoopie Cushion", "Smoke Pellets", "Fake Blood Capsules", "Sassacre's Daunting Tome", "Magician's Gloves", "Clown Poster", "Unicycle", "Jack-in-the-Box", "Can-of-worms"]],
 ["Archaeology", ["Suit of Armor", "Mummy", "Sarcophagus", "Jade Figurine", "Indiana Jones Movie", "Dragon Figurine", "Toy Soldiers"]],
-["Literature", ["Midsummer Night's Dream", "The Alchemist", "Chinese Haikus of Littler Historical Significance"]],
+["Literature", ["Midsummer Night's Dream", "The Alchemist", "Chinese Haikus of Little Historical Significance"]],
 ["Immaturity", ["Push-me Popper", "Teddy Bear", "Play-Doh", "Bouncy Ball"]]	,
 ["Sports", ["Football", "Baseball Glove", "Hockey Stick", "Tennis Racket"]],
 ["Warfare", ["Model Tank", "Ghilie Suit", "Night-vision Goggles", "Empty Magazine"]],
 ["Gambling", ["Playing Cards", "Poker Chips", "Roulette Wheel"]],
 ["Knick Knacks", ["Snow Globe", "Lava Lamp", "Miniature Eiffel Tower", "Plasma Globe", "Music Box"]],
 ["Paleontology", ["Fossilized Dinosaur Skin", "Preserved Amber", "Ammonite Shell", "T-Rex Tooth", "Footprint Fossil"]],
-["Meta", ["SBHJ poster", "Con-Air Bunny", "Cool Horse Painting", "Problem Sleuth Poster", "Sepulchritude Shirt"]],	
+["Meta", ["SBHJ poster", "Con-Air Bunny", "Cool Horse Painting", "Problem Sleuth Poster", "[CENSORED]", "Sepulchritude Shirt"]],	
 ];
 
 var Specibi = [
