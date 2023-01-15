@@ -51,6 +51,7 @@ var LandName = [
 'Charge',
 'Chemicals',
 'Chocolate',
+'Chutes',
 'Circuitry',
 'Clay',
 'Cliffs',
