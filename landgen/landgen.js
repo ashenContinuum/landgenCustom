@@ -18,12 +18,12 @@ Interest1 = 0;
 Interest2 = 0;
 Specibus = 0;
 
-ForceTitle1 = '';
-ForceTitle2 = '';
-ForceLand1 = '';
-ForceLand2 = '';
-ForceChum1 = '';
-ForceChum2 = '';
+ForceTitle1 = 'Seer';
+ForceTitle2 = 'Doom';
+ForceLand1 = 'Cathedrals';
+ForceLand2 = 'Echos';
+ForceChum1 = 'ashen';
+ForceChum2 = 'Continuum';
 LockColor = false;
 
 OptionsWindowVisible = false;
